@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "random-quote-generator-728678"
 version = "0.1.0"
-description = ""
+description = "Random Quote Generator"
 authors = ["martin <hewingmartin@gmail.com>"]
 
 [tool.poetry.dependencies]
